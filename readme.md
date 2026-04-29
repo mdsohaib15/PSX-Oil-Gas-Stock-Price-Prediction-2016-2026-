@@ -2,6 +2,10 @@
 
 A full-scale **data mining, machine learning, and deployment project** designed to analyze and forecast stock prices of the Pakistan Stock Exchange (PSX) Oil & Gas sector using historical time-series data.
 
+## Live Demo
+
+**Streamlit App Demo:** [App Link](https://psx-oil-gas-stock-price-prediction.streamlit.app/)
+
 ## Problem Statement
 
 Stock price prediction in emerging markets like Pakistan is  **noisy, volatile, and non-linear** . Traditional analysis methods fail to capture:
@@ -172,10 +176,6 @@ Low contribution:
 ## Streamlit Web Application
 
 The project is deployed as an  **interactive dashboard** .
-
-## Live Demo
-
-**Streamlit App Demo:** [App Link](https://psx-oil-gas-stock-price-prediction.streamlit.app/)
 
 ## Dashboard Modules
 
