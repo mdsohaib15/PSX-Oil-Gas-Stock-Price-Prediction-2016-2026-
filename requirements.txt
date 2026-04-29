@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+numpy
+sqlite3
+os
+joblib
