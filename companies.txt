@@ -1,0 +1,18 @@
+Company				Symbol
+Attock Petroleum Limited	APL
+Attock Refinery Limited	ATRL
+Burshane LPG (Pakistan) Ltd.	BLPL
+Cnergyico PK Limited	CNERGY
+Hascol Petroleum Limited	HASCOL
+Hi-Tech Lubricants Limited	HTL
+Mari Petroleum Company Limited	MARI
+National Refinery Limited	NRL
+Oil & Gas Development Company Limited	OGDC
+Oilboy Energy Limited	OBOY
+Pakistan Oilfields Limited	POL
+Pakistan Petroleum Limited	PPL
+Pakistan Refinery Limited	PRL
+Pakistan State Oil Company Limited	PSO
+Sui Southern Gas Company Limited	SSGC
+Sui Northern Gas Pipelines Limited	SNGP
+Wafi Energy Pakistan Limited	WAFI
